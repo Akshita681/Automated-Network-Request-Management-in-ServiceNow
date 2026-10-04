@@ -1,0 +1,449 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4631
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 776.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 170.2318 0 Td (Ideation Phase) Tj T* -170.2318 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 753.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 116.1708 0 Td (Define the Problem Statements) Tj T* -116.1708 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 733.8583 cm
+Q
+q
+1 0 0 1 92.12598 643.1496 cm
+q
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 5.669291 76.37008 Tm (Date) Tj T* ET
+BT 1 0 0 1 133.2283 76.37008 Tm (October 3, 2026) Tj T* ET
+BT 1 0 0 1 5.669291 53.69291 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 133.2283 53.69291 Tm  T* ET
+BT 1 0 0 1 5.669291 31.01575 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 133.2283 31.01575 Tm (Automated Network Request Management System) Tj T* ET
+BT 1 0 0 1 5.669291 8.338583 Tm (Maximum Marks) Tj T* ET
+BT 1 0 0 1 133.2283 8.338583 Tm (2 Marks) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 90.70866 m 411.0236 90.70866 l S
+n 0 0 m 411.0236 0 l S
+n 0 0 m 0 90.70866 l S
+n 411.0236 0 m 411.0236 90.70866 l S
+n 0 68.0315 m 411.0236 68.0315 l S
+n 0 45.35433 m 411.0236 45.35433 l S
+n 0 22.67717 m 411.0236 22.67717 l S
+n 127.5591 0 m 127.5591 90.70866 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 623.3071 cm
+Q
+q
+1 0 0 1 78 611.3071 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Customer Problem Statement Template:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 578.8031 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Create a problem statement to understand your customer's point of view. The Customer Problem Statement) Tj T* (template helps you focus on what matters to create experiences people will love.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 534.2992 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (A well-articulated customer problem statement allows you and your team to find the ideal solution for the) Tj T* (challenges your customers face. Throughout the process, you\222ll also be able to empathize with your) Tj T* (customers, which helps you better understand how they perceive your product or service.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 513.7953 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Reference: https://miro.com/templates/customer-problem-statement/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 493.2913 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 473.4488 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 78 482 Tm
+(A worked example of one problem statement for this project \050PS\0553\051\072) Tj
+T*
+ET
+0 0 0 RG
+0.6 w
+0.862745 0.913725 0.968627 rg
+n
+78 434 112 34 re
+B*
+1 1 1 rg
+n
+190 434 317 34 re
+B*
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 84 448 Tm
+(I am) Tj
+T*
+ET
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 196 453.5 Tm
+(a remote employee working off\055site who needs VPN \057 Wi\055Fi access for a newly) Tj
+T*
+ET
+BT
+1 0 0 1 196 442.5 Tm
+(issued laptop) Tj
+T*
+ET
+0 0 0 RG
+0.6 w
+0.890196 0.945098 0.87451 rg
+n
+78 408 112 26 re
+B*
+1 1 1 rg
+n
+190 408 317 26 re
+B*
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 84 418 Tm
+(I\047m trying to) Tj
+T*
+ET
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 196 418 Tm
+(raise a network access request and track its progress until access is granted) Tj
+T*
+ET
+0 0 0 RG
+0.6 w
+0.992157 0.941176 0.835294 rg
+n
+78 374 112 34 re
+B*
+1 1 1 rg
+n
+190 374 317 34 re
+B*
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 84 388 Tm
+(But) Tj
+T*
+ET
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 196 393.5 Tm
+(I can\047t see whether it has been approved\054 and I\047m asked to resubmit when details) Tj
+T*
+ET
+BT
+1 0 0 1 196 382.5 Tm
+(are missing) Tj
+T*
+ET
+0 0 0 RG
+0.6 w
+0.972549 0.882353 0.882353 rg
+n
+78 340 112 34 re
+B*
+1 1 1 rg
+n
+190 340 317 34 re
+B*
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 84 354 Tm
+(Because) Tj
+T*
+ET
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 196 359.5 Tm
+(requests move through email threads with no automatic field checks or live) Tj
+T*
+ET
+BT
+1 0 0 1 196 348.5 Tm
+(status updates) Tj
+T*
+ET
+0 0 0 RG
+0.6 w
+0.917647 0.87451 0.952941 rg
+n
+78 314 112 26 re
+B*
+1 1 1 rg
+n
+190 314 317 26 re
+B*
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 84 324 Tm
+(Which makes me feel) Tj
+T*
+ET
+BT
+/F2-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 196 324 Tm
+(Anxious \046 left in the dark) Tj
+T*
+ET
+0.94902 0.94902 0.94902 rg
+0 0 0 RG
+n
+78 257 429 45 re
+B*
+0 0 0 rg
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 84 288 Tm
+(Problem statement\072 I am a remote employee trying to raise and track a network access request\054 but I can\047t see) Tj
+T*
+ET
+BT
+1 0 0 1 84 277 Tm
+(its status or fix missing details quickly because requests run through email with no validation or live updates\054) Tj
+T*
+ET
+BT
+1 0 0 1 84 266 Tm
+(which makes me feel anxious and left in the dark\056) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1247
+>>
+stream
+GatUr99Yi)&BF8='Re[pW>[?$0Bnq]c'Gj4OmKSm06>P![]K[c"5#5Uqe\"mYet\uQYXSF2<nO5rf&m^o\n'p,Qi;+KV(JJhu]3[huO3nq'Z*KS:-suehW>G9;s1)Z,^Alq",OX1F6!cO'R2NS!gCN'7tp#N$2#\8JObbi($K;16bTXXP_:8Aq)T)&A/35>QZYlEYU$"SG>Gb6t_&/o@udR-1bQ5d>e9;ejLfe=RX?lj.6smd;fE^O%'&<@eLS'T4.O**X#D6`_*Y^O-Qk%6X+[;gge276+d%Os7lB]eid8bj]o6@'E'<ToFXJTMdmLu[#(kO#[`Nu1&spr'SN2L=Fe]TC&Z;iXRZdX+jJ*tMM>%u-(!mlRYZeC%_I*?SqIXm<5lu3%9.T`1U=WE&O'j!n>#kgI)/5;nLc]fpTA<Cj/":+54NpGSX&^I7\(39hD*FT&po5hl4lQ,cHQA^0mTh3alM1ZP[kr3\81O4[O0ZoVS?LFR3NkNSjuC8gT2"9^AAWY^*hnhaA.=AYIBV`b@sj;,d/@kNC\qPi17c"M1kjY4K-O/+1ol88?u@a$<&-V[S-3*](kG(EE0KG`Tig,?U,tFQDIg2$V7_[DQoYLFP=85ZeRcXV?5S)3.`Eb(6co%QA4JP4dN73k=8HfCZ'V,K*bR\Bp2;53a(:X8W6Zu6Q4CcQF4gGZs>[?SYl4fKI3:rXKhB)>;S7[W<,W#CP1kdR^Nmg?*NY-aP`^iZdNst$(B^,%@5iB^in7>[VUD[g.9u3G$:7LGVFAqB;?Osgtf-S&,l(+J0QeE+%(Bfk_=1%N%RMcIjeujf;2ch:QFL;9_A]ne#kc8dZBA2H3+&=/B)I/I[>h*<A'U,G:U8>[+-*HDG,p`,I^rRF[KBO]&)TWp/>@SFuTX0F`7-Yf5$Qe)C4S3'`pHans:bYS=j+`%jks"#ea=[:TO"4L/]N`W6$f`A+^ZuR*n*de5RgLTRZ3LTg22IR/JOWG>AX<08Ec)IFHLo]r0ls.5IT"E?_CLG1>MO%_@^"=8H(K]VbL/;V!9H%7uH2ouJ+/g)=d6)61n`hRE/Khh1q(:-JSt^uDlC1`HaA@9mf!_uChNpUO#U^VA)s"NU%839sAXmTp6]NKH/)ogZF(9C%/b93Y#gCE2r.?[&\0$=`-VVt,D$]6?.?'amGMT&$r8$[4]==@i7*N82C+&Y2d$j1R?k(DfP_P,88q)k69iAHI*Dd3bNu(`@a:4tujUbG#R5~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000435 00000 n 
+0000005118 00000 n 
+0000005225 00000 n 
+0000005332 00000 n 
+0000005444 00000 n 
+0000005556 00000 n 
+0000005672 00000 n 
+0000005874 00000 n 
+0000007214 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7256
+%%EOF
